@@ -1,4 +1,4 @@
-# python 09:00AM-11:00PM Huaxia
+# Java 09:00AM-11:00PM Huaxia
 
 This repository is for Java class opened in Huaxia Chinese School.
 
