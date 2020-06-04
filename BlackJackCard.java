@@ -7,8 +7,7 @@ public class BlackJackCard extends Card {
 		//constructors
 	BlackJackCard()
 	{
-	int abcdefghijklmnopqrstuvwxyz	= 3;
-	System.out.println(abcdefghijklmnopqrstuvwxyz);
+	 
 	}
 		
 	public int getValue() {
